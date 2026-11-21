@@ -1,0 +1,84 @@
+{
+  "hero": {
+    "desktop": {
+      "file": "/assets/hero/hero-desktop.webp",
+      "observed_source_id": "f73250_8a5588ddef0a4573b5e085b0562e6f66",
+      "observed_dimensions": "980x960"
+    },
+    "mobile": {
+      "file": "/assets/hero/hero-mobile.webp",
+      "observed_source_id": "b82523_583243bebb96458d806b2fc1dd52e4f8",
+      "observed_dimensions": "600x605"
+    }
+  },
+  "tattooCare": {
+    "file": "/assets/sections/tattoo-care.webp",
+    "observed_source_id": "b82523_dac2d8757cd4433fbb895ff860ef5197",
+    "observed_dimensions": "1000x980"
+  },
+  "testimonialBanner": {
+    "file": "/assets/sections/testimonial-banner.webp",
+    "observed_source_id": "f73250_1062ba5034734f8e9ed3606aa982f4ae",
+    "observed_dimensions": "391x640 variants"
+  },
+  "gallery": [
+    {
+      "file": "/assets/gallery/gallery-01.webp",
+      "subject": "Shiva tattoo"
+    },
+    {
+      "file": "/assets/gallery/gallery-02.webp",
+      "subject": "Ganesha tattoo"
+    },
+    {
+      "file": "/assets/gallery/gallery-03.webp",
+      "subject": "Small meaningful tattoo"
+    },
+    {
+      "file": "/assets/gallery/gallery-04.webp",
+      "subject": "Geometric armband tattoo"
+    },
+    {
+      "file": "/assets/gallery/gallery-05.webp",
+      "subject": "Mantra calligraphy tattoo"
+    },
+    {
+      "file": "/assets/gallery/gallery-06.webp",
+      "subject": "Compass tattoo"
+    },
+    {
+      "file": "/assets/gallery/gallery-07.webp",
+      "subject": "Pet portrait tattoo"
+    },
+    {
+      "file": "/assets/gallery/gallery-08.webp",
+      "subject": "Dragon Ball Z tattoo"
+    },
+    {
+      "file": "/assets/gallery/gallery-09.webp",
+      "subject": "Watercolor sleeve tattoo"
+    },
+    {
+      "file": "/assets/gallery/gallery-10.webp",
+      "subject": "Tribal wolf tattoo"
+    }
+  ],
+  "artists": [
+    {
+      "file": "/assets/artists/artist-01.webp",
+      "specialty": "Realism / portraiture"
+    },
+    {
+      "file": "/assets/artists/artist-02.webp",
+      "specialty": "Geometry / mandala"
+    },
+    {
+      "file": "/assets/artists/artist-03.webp",
+      "specialty": "Minimalist / fine line"
+    },
+    {
+      "file": "/assets/artists/artist-04.webp",
+      "specialty": "Calligraphy / watercolor"
+    }
+  ]
+}

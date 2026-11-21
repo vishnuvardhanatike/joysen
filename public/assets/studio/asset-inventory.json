@@ -1,0 +1,75 @@
+{
+  "source_archive": "imgof tt.zip",
+  "images": [
+    {
+      "file": "/assets/studio/studio-01.jpg",
+      "original_dimensions": [
+        1600,
+        720
+      ],
+      "use": "Studio interior photo supplied by user"
+    },
+    {
+      "file": "/assets/studio/studio-02.jpg",
+      "original_dimensions": [
+        720,
+        1600
+      ],
+      "use": "Studio interior photo supplied by user"
+    },
+    {
+      "file": "/assets/studio/studio-03.jpg",
+      "original_dimensions": [
+        720,
+        1600
+      ],
+      "use": "Studio interior photo supplied by user"
+    },
+    {
+      "file": "/assets/studio/studio-04.jpg",
+      "original_dimensions": [
+        1600,
+        720
+      ],
+      "use": "Studio interior photo supplied by user"
+    },
+    {
+      "file": "/assets/studio/studio-05.jpg",
+      "original_dimensions": [
+        1600,
+        720
+      ],
+      "use": "Studio interior photo supplied by user"
+    },
+    {
+      "file": "/assets/studio/studio-06.jpg",
+      "original_dimensions": [
+        1600,
+        720
+      ],
+      "use": "Studio interior photo supplied by user"
+    },
+    {
+      "file": "/assets/studio/studio-07.jpg",
+      "original_dimensions": [
+        720,
+        1600
+      ],
+      "use": "Studio interior photo supplied by user"
+    },
+    {
+      "file": "/assets/studio/studio-08.jpg",
+      "original_dimensions": [
+        963,
+        1600
+      ],
+      "use": "Studio interior photo supplied by user"
+    }
+  ],
+  "video": {
+    "file": "/assets/studio/studio-walkthrough.mp4",
+    "resolution": "478x850",
+    "duration_seconds": 14.87,
+    "use": "Studio walkthrough video supplied by user"
+  }
+}
